@@ -1,2 +1,2 @@
-# Algorithm - code up
+# Algorithm
 Algorithm study
