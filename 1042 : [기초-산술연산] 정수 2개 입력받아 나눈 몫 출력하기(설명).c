@@ -3,6 +3,6 @@ int main(void)
 {
     int a, b;
     scanf("%d %d", &a, &b);
-    printf("%d", (float)b/(float)a);
+    printf("%d", a/b);
     return 0;
 }
